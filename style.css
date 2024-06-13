@@ -70,14 +70,14 @@ body{
     font-weight: 500;
     cursor: pointer;
     margin-top: 79px;
-    margin-left: 398px;
+    margin-left: 400px;
 }
 .header_link{
     text-decoration: none;
 }
 
 .header_menu a{
-    padding-left: 42px;
+    padding-left: 50px;
 }
 .intro{
     padding-top: 257px;
